@@ -1,4 +1,4 @@
-package com.george.kotlin.unit2
+package com.george.kotlin.function
 
 /**
  * 高阶函数是指函数或者Lambda函数的参数又是一个函数或者Lambda函数

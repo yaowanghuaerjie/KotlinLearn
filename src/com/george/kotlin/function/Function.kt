@@ -1,4 +1,4 @@
-package com.george.kotlin.unit2
+package com.george.kotlin.function
 
 /**
  * Kotlin 函数
@@ -6,7 +6,7 @@ package com.george.kotlin.unit2
 
 fun function1() {
     var str = "hello"
-    //函数嵌套,用途：在某些条件下触发递归的函数不希望被外部函数访问到的函数 
+    //函数嵌套,用途：在某些条件下触发递归的函数不希望被外部函数访问到的函数
     fun say(count: Int = 10) {
         println(str)
         if (count > 0) {

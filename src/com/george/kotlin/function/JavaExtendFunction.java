@@ -1,4 +1,4 @@
-package com.george.kotlin.unit2;
+package com.george.kotlin.function;
 
 import kotlin.io.FilesKt;
 import kotlin.text.Charsets;
