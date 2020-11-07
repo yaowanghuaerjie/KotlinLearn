@@ -1,4 +1,4 @@
-package com.george.kotlin.function
+package com.george.kotlin.function.unit1
 
 /**
  * 高阶函数是指函数或者Lambda函数的参数又是一个函数或者Lambda函数
@@ -32,5 +32,5 @@ fun main(args: Array<String>): Unit {
 
     onlyIf(true, function)
 
-    lambdaA(1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1)
+    lambdaA(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1)
 }
